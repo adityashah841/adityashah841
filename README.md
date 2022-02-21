@@ -2,9 +2,8 @@
 <h1 align="center"> Hello Aditya Shah here <img src="https://raw.githubusercontent.com/NoobMahbub/NoobMahbub/main/Wave.gif" width="45vh" height:"45vh"/> </h1>
 
 
-  - 🔭 I’m currently working on **Web Development & Machine Learning** 
+  - 🔭 I’m currently working on **Machine Learning** 
   - 🌱 I’m currently learning **IOT**
-  - 👯 I’m looking to collaborate on **Open Source**
   - 📫 How to reach me 
   - <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' height="17"/> **https://www.linkedin.com/in/aditya-shah-139154208/**
   - <img src= 'https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' height="17"/> **adityashah841@gmail.com**
