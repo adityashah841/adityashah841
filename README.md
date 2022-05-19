@@ -42,7 +42,7 @@
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityashah841&theme=holi-theme&hide_border=true&card_width=600)](https://git.io/streak-stats)
   
   
-  ### <h3 align="center">Most Used Language</h3>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityashah841&layout=compact&theme=github_dark&hide_border=true&card_width=600)](https://github.com/PRACHIP09/github-readme-stats)
+<!--   ### <h3 align="center">Most Used Language</h3> -->
+<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityashah841&layout=compact&theme=github_dark&hide_border=true&card_width=600)](https://github.com/PRACHIP09/github-readme-stats) -->
   
  <div/>
