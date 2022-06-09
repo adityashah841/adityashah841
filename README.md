@@ -1,5 +1,4 @@
-
-<h1 align="center"> Hello Aditya Shah here <img src="https://raw.githubusercontent.com/NoobMahbub/NoobMahbub/main/Wave.gif" width="40vh" height:"40vh"/> </h1>
+<h1 align="center"> Hello Aditya Shah here <img src="https://raw.githubusercontent.com/NoobMahbub/NoobMahbub/main/Wave.gif" width="40" height:"40"/> </h1>
 
 
   - 🔭 I’m currently working on **Machine Learning** 
