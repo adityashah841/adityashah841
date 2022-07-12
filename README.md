@@ -2,7 +2,7 @@
 
 
   - 🔭 I’m currently working on **Machine Learning** 
-  - 🌱 I’m currently learning **IOT**
+  - 🌱 I’m currently learning **IOT, Blockchain**
   - 📫 How to reach me 
   - <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' height="17"/> **https://www.linkedin.com/in/aditya-shah-139154208/**
   - <img src= 'https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' height="17"/> **adityashah841@gmail.com**
