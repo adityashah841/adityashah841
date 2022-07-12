@@ -6,7 +6,7 @@
   - 📫 How to reach me 
   - <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' height="17"/> **https://www.linkedin.com/in/aditya-shah-139154208/**
   - <img src= 'https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' height="17"/> **adityashah841@gmail.com**
-  - 🎓 Second Year Computer Engineering student at D. J. Sanghvi College of Engineering.
+  - 🎓 Third Year Computer Engineering student at D. J. Sanghvi College of Engineering.
   
 ### <h2 align="center">🛠️ Technical Skill Set</h2>
  <h4>Languages :</h4> 
