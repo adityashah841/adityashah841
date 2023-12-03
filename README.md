@@ -1,14 +1,17 @@
-<h1 align="center"> Hello Aditya Shah here <img src="https://raw.githubusercontent.com/NoobMahbub/NoobMahbub/main/Wave.gif" width="40" height:"40"/> </h1>
+<h1 > Hello Aditya Shah here <img src="https://raw.githubusercontent.com/NoobMahbub/NoobMahbub/main/Wave.gif" width="40" height:"40"/> </h1>
+<!--<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />-->
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+<br><br>
 
 
   - 🔭 I’m currently working on **Machine Learning** 
   - 🌱 I’m currently learning **IOT**
   - 📫 How to reach me 
-  - <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' height="17"/> **https://www.linkedin.com/in/aditya-shah-139154208/**
+  - <a href="https://www.linkedin.com/in/aditya-shah-139154208/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   - <img src= 'https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' height="17"/> **adityashah841@gmail.com**
   - 🎓 Third Year Computer Engineering student at D. J. Sanghvi College of Engineering.
   
-### <h2 align="center">🛠️ Technical Skill Set</h2>
+### <h2 >🛠️ Technical Skill Set</h2>
  <h4>Languages :</h4> 
   
  <img src="https://camo.githubusercontent.com/6cbecd63a9a8f83ee186885c446938820ffa8304942a284ee6e1e2acb2bfd822/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465" />  <img src='https://camo.githubusercontent.com/5859172b2d0854f4d70d35118ae1fbb8d92f967ea654f1bb1bdae4a346d03926/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465'/> <img src='https://camo.githubusercontent.com/a1b2dac5667822ee0d98ae6d799da61987fd1658dfeb4d2ca6e3c99b1535ebd8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534'/>
