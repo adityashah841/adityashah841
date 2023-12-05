@@ -4,12 +4,12 @@
 <br><br>
 
 
-  - 🔭 I’m currently working on **Machine Learning** 
-  - 🌱 I’m currently learning **IOT**
+  - 🔭 **Data Science** Enthusiast 
+  - 🌱 Skilled in **Machine Learning** and **IOT**
   - 📫 How to reach me 
   - <a href="https://www.linkedin.com/in/aditya-shah-139154208/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   - <img src= 'https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' height="17"/> **adityashah841@gmail.com**
-  - 🎓 Third Year Computer Engineering student at D. J. Sanghvi College of Engineering.
+  - 🎓 Fourth year Computer Engineering student at D. J. Sanghvi College of Engineering.
   
 ### <h2 >🛠️ Technical Skill Set</h2>
  <h4>Languages :</h4> 
@@ -42,9 +42,9 @@
   
   ### <h3 align="center">Streak Statistics </h2>
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityashah841&theme=holi-theme&hide_border=true&card_width=600)](https://git.io/streak-stats)
-  
-  
-<!--   ### <h3 align="center">Most Used Language</h3> -->
-<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityashah841&layout=compact&theme=github_dark&hide_border=true&card_width=600)](https://github.com/PRACHIP09/github-readme-stats) -->
+
+
+ <!--### <h3 align="center">Most Used Language</h3>--> 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityashah841&layout=compact&theme=github_dark&hide_border=true&card_width=600)](https://github.com/PRACHIP09/github-readme-stats) 
   
  <div/>
