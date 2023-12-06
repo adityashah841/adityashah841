@@ -9,6 +9,7 @@
   - 📫 How to reach me 
   - <a href="https://www.linkedin.com/in/aditya-shah-139154208/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   - <img src= 'https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' height="17"/> **adityashah841@gmail.com**
+  - <a href="https://www.researchgate.net/profile/Aditya-Shah-42">My research profile</a>
   - 🎓 Fourth year Computer Engineering student at D. J. Sanghvi College of Engineering.
   
 ### <h2 >🛠️ Technical Skill Set</h2>
