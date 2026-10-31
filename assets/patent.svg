@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="230" viewBox="0 0 600 230" role="img">
+<style>
+.serif{font-family:Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif} .sans{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif} .mono{font-family:'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace} .glyph{font-family:'Segoe UI Symbol', 'Apple Symbols', 'DejaVu Sans', 'Noto Sans Symbols2', sans-serif}
+
+</style>
+
+<rect width="600" height="230" rx="16" fill="#151A22"/>
+<rect x=".5" y=".5" width="599" height="229" rx="16" fill="none" stroke="#262D38"/>
+<rect x="0" y="24" width="4" height="40" rx="2" fill="#D4A84B"/>
+<text x="32" y="62" class="glyph" font-size="30" fill="#D4A84B">♚</text>
+<text x="72" y="60" class="serif" font-size="28" fill="#F1E9DA">Medical Emergency System</text>
+<rect x="475" y="26" width="93" height="30" rx="15" fill="#D4A84B22" stroke="#D4A84B"/><text x="522" y="46" class="mono" font-size="14" fill="#D4A84B" text-anchor="middle">PATENTED</text>
+<text x="572" y="206" class="sans" font-size="22" fill="#D4A84B" text-anchor="end">↗</text>
+<text x="32" y="118" class="sans" font-size="19" fill="#9AA3B2">In-vehicle emergency detection and autonomous</text><text x="32" y="145" class="sans" font-size="19" fill="#9AA3B2">response using vision and sensor fusion.</text>
+<rect x="32" y="180" width="48" height="32" rx="16" fill="#0E1117" stroke="#262D38"/><text x="56" y="201" class="mono" font-size="14" fill="#F1E9DA" text-anchor="middle">IoT</text><rect x="87.8" y="180" width="151" height="32" rx="16" fill="#0E1117" stroke="#262D38"/><text x="163" y="201" class="mono" font-size="14" fill="#F1E9DA" text-anchor="middle">Computer Vision</text><rect x="246.8" y="180" width="65" height="32" rx="16" fill="#0E1117" stroke="#262D38"/><text x="279" y="201" class="mono" font-size="14" fill="#F1E9DA" text-anchor="middle">LiDAR</text>
+
+</svg>

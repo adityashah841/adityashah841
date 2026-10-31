@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="230" viewBox="0 0 600 230" role="img">
+<style>
+.serif{font-family:Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif} .sans{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif} .mono{font-family:'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace} .glyph{font-family:'Segoe UI Symbol', 'Apple Symbols', 'DejaVu Sans', 'Noto Sans Symbols2', sans-serif}
+
+</style>
+
+<rect width="600" height="230" rx="16" fill="#151A22"/>
+<rect x=".5" y=".5" width="599" height="229" rx="16" fill="none" stroke="#262D38"/>
+<rect x="0" y="24" width="4" height="40" rx="2" fill="#D4A84B"/>
+<text x="32" y="62" class="glyph" font-size="30" fill="#D4A84B">♛</text>
+<text x="72" y="60" class="serif" font-size="28" fill="#F1E9DA">Code Review Agents</text>
+
+<text x="572" y="206" class="sans" font-size="22" fill="#D4A84B" text-anchor="end">↗</text>
+<text x="32" y="118" class="sans" font-size="19" fill="#9AA3B2">Multi-agent CLI where Coder, Reviewer, Tester and</text><text x="32" y="145" class="sans" font-size="19" fill="#9AA3B2">Judge agents debate and review code together.</text>
+<rect x="32" y="180" width="108" height="32" rx="16" fill="#0E1117" stroke="#262D38"/><text x="86" y="201" class="mono" font-size="14" fill="#F1E9DA" text-anchor="middle">Claude API</text><rect x="148.0" y="180" width="117" height="32" rx="16" fill="#0E1117" stroke="#262D38"/><text x="206" y="201" class="mono" font-size="14" fill="#F1E9DA" text-anchor="middle">Multi-agent</text><rect x="272.6" y="180" width="74" height="32" rx="16" fill="#0E1117" stroke="#262D38"/><text x="309" y="201" class="mono" font-size="14" fill="#F1E9DA" text-anchor="middle">Python</text>
+
+</svg>

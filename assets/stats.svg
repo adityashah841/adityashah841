@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130" role="img">
+<style>
+.serif{font-family:Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif} .sans{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif} .mono{font-family:'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace} .glyph{font-family:'Segoe UI Symbol', 'Apple Symbols', 'DejaVu Sans', 'Noto Sans Symbols2', sans-serif}
+.pop{animation:pop .9s ease-out both}@keyframes pop{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+</style>
+<rect width="1200" height="130" rx="16" fill="#151A22"/>
+<rect x=".5" y=".5" width="1199" height="129" rx="16" fill="none" stroke="#262D38"/>
+<g class="pop" style="animation-delay:0.0s"><text x="100.0" y="68" class="serif" font-size="40" fill="#D4A84B" text-anchor="middle">6</text><text x="100.0" y="98" class="mono" font-size="12" letter-spacing="2" fill="#9AA3B2" text-anchor="middle">PUBLICATIONS</text></g>
+<line x1="200.0" y1="30" x2="200.0" y2="100" stroke="#262D38"/>
+<g class="pop" style="animation-delay:0.1s"><text x="300.0" y="68" class="serif" font-size="40" fill="#D4A84B" text-anchor="middle">100+</text><text x="300.0" y="98" class="mono" font-size="12" letter-spacing="2" fill="#9AA3B2" text-anchor="middle">CITATIONS</text></g>
+<line x1="400.0" y1="30" x2="400.0" y2="100" stroke="#262D38"/>
+<g class="pop" style="animation-delay:0.2s"><text x="500.0" y="68" class="serif" font-size="40" fill="#D4A84B" text-anchor="middle">1</text><text x="500.0" y="98" class="mono" font-size="12" letter-spacing="2" fill="#9AA3B2" text-anchor="middle">GRANTED PATENT</text></g>
+<line x1="600.0" y1="30" x2="600.0" y2="100" stroke="#262D38"/>
+<g class="pop" style="animation-delay:0.3s"><text x="700.0" y="68" class="serif" font-size="40" fill="#D4A84B" text-anchor="middle">4×</text><text x="700.0" y="98" class="mono" font-size="12" letter-spacing="2" fill="#9AA3B2" text-anchor="middle">HACKATHON WINS</text></g>
+<line x1="800.0" y1="30" x2="800.0" y2="100" stroke="#262D38"/>
+<g class="pop" style="animation-delay:0.4s"><text x="900.0" y="68" class="serif" font-size="40" fill="#D4A84B" text-anchor="middle">3.85</text><text x="900.0" y="98" class="mono" font-size="12" letter-spacing="2" fill="#9AA3B2" text-anchor="middle">MS GPA</text></g>
+<line x1="1000.0" y1="30" x2="1000.0" y2="100" stroke="#262D38"/>
+<g class="pop" style="animation-delay:0.5s"><text x="1100.0" y="68" class="serif" font-size="40" fill="#D4A84B" text-anchor="middle">1500</text><text x="1100.0" y="98" class="mono" font-size="12" letter-spacing="2" fill="#9AA3B2" text-anchor="middle">CHESS.COM RAPID</text></g>
+</svg>
